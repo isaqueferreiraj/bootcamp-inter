@@ -9,3 +9,4 @@ function getAdmins(map){
         console.log(value);
     }
 }
+
